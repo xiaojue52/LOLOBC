@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="normal">#ffffff</color>
+    <color name="press">#d1e5fe</color>
+    <color name="black">#000000</color>
+    <color name="menu">#f2f7fa</color>
+</resources>
